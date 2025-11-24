@@ -1,0 +1,21 @@
+InvoiceID,VendorName,InvoiceDate,DueDate,Amount,Currency,Department,Status,FileType,FileName,Description
+INV001,Contoso Supplies,2025-01-12,2025-02-12,1450.75,USD,Marketing,Paid,PDF,INV001_Contoso.pdf,Campaign Materials - Q1
+INV002,Fabrikam Tech,2025-01-15,2025-02-15,3290.0,USD,IT,Paid,Image,INV002_Fabrikam.png,Laptops and accessories
+INV003,Northwind Traders,2025-01-19,2025-02-19,875.25,GBP,Finance,Pending,Excel,INV003_Northwind.xlsx,Consulting services
+INV004,Woodgrove Bank,2025-02-01,2025-03-01,4120.0,EUR,Operations,Paid,PDF,INV004_Woodgrove.pdf,Payment processing fees
+INV005,Adventure Works,2025-02-03,2025-03-03,2399.5,USD,HR,Pending,Image,INV005_Adventure.jpg,Training event
+INV006,Blue Yonder Airlines,2025-02-10,2025-03-10,710.9,USD,Travel,Paid,PDF,INV006_BlueYonder.pdf,Flight bookings
+INV007,Alpine Ski House,2025-02-12,2025-03-12,590.0,EUR,Operations,Pending,Excel,INV007_Alpine.xlsx,Team offsite venue
+INV008,Coho Winery,2025-02-14,2025-03-14,320.15,GBP,Marketing,Paid,Image,INV008_Coho.png,Event catering
+INV009,Fourth Coffee,2025-02-20,2025-03-20,1250.4,USD,Admin,Pending,PDF,INV009_Fourth.pdf,Office coffee supplies
+INV010,Tailspin Toys,2025-02-28,2025-03-28,980.0,USD,Finance,Paid,Image,INV010_Tailspin.jpg,Promotional items
+INV011,Wide World Importers,2025-03-02,2025-04-02,2175.25,GBP,Logistics,Paid,Excel,INV011_WWI.xlsx,Logistics services
+INV012,Lucerne Publishing,2025-03-06,2025-04-06,3330.9,USD,Marketing,Pending,PDF,INV012_Lucerne.pdf,Content production
+INV013,Proseware Ltd,2025-03-10,2025-04-10,1475.75,USD,HR,Paid,Image,INV013_Proseware.png,Recruitment platform
+INV014,A. Datum Corporation,2025-03-14,2025-04-14,2780.3,USD,IT,Pending,Excel,INV014_ADatum.xlsx,Software licenses
+INV015,Southridge Video,2025-03-20,2025-04-20,1990.0,GBP,Marketing,Paid,PDF,INV015_Southridge.pdf,Video production
+INV016,Trey Research,2025-03-24,2025-04-24,1425.0,USD,Finance,Paid,Excel,INV016_Trey.xlsx,Financial advisory
+INV017,Wingtip Toys,2025-03-30,2025-04-30,625.6,EUR,Operations,Pending,PDF,INV017_Wingtip.pdf,Office equipment
+INV018,Consolidated Messenger,2025-04-02,2025-05-02,3500.0,USD,Logistics,Paid,Image,INV018_CM.png,Courier services
+INV019,Northwind Traders,2025-04-05,2025-05-05,940.2,GBP,Finance,Paid,PDF,INV019_Northwind.pdf,Audit support
+INV020,Contoso Supplies,2025-04-10,2025-05-10,2100.0,USD,Admin,Pending,Excel,INV020_Contoso.xlsx,Office stationery
